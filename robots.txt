@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bangerac.github.io/sitemap
+Sitemap: https://bangerac.github.io/app/sitemap
+Sitemap: https://bangerac.github.io/assets/sitemap
+Sitemap: https://bangerac.github.io/css/sitemap
+Sitemap: https://bangerac.github.io/includes/sitemap
+Sitemap: https://bangerac.github.io/item/sitemap
+Sitemap: https://bangerac.github.io/src/sitemap
